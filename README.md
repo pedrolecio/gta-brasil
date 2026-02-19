@@ -4,7 +4,6 @@
 	GTA Brasil 🇧🇷
 </h3>
 <h6 align="center">
-  ·
   <a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/MANUAL.md">Manual</a>
   ·
   <a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/CREDITOS.md">Créditos</a>
@@ -41,9 +40,5 @@
 ### 📋 Regras de Uso
 
 **GTA Brasil** está sob a licença [GPL-3.0](https://github.com/pedrolecio/GTA-Brasil/blob/main/LICENSE), você tem direito de usar e modificar os arquivos para uso pessoal/distribuição contanto que você não venda o conteúdo ou remova créditos. **É estritamente proibido fazer reupload do projeto em sites que monetizam o download como o sharemods.** Não é proibido fazer reupload em outros casos, apesar de pedirmos gentilmente para que você linke o download para a aba Releases deste repositório. Caso você queira fazer uma modificação que julgue benéfica ao projeto, o convidamos a fazer um fork do repositório e utilizar a função de pull request. Para mais informações, veja como ajudar o projeto abaixo.
-
-### 👐 Contribuir
-
-Veja [CONTRIBUIR.md](https://github.com/pedrolecio/GTA-Brasil/blob/main/CONTRIBUIR.md).
 
 <p align="center"><a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/pedrolecio/GTA-Brasil?style=for-the-badge"></a>
