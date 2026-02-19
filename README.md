@@ -4,18 +4,16 @@
 	GTA Brasil 🇧🇷
 </h3>
 <h6 align="center">
-  <a href="https://pulseclub.net/resources/gta-brasil.30/">Tópico Oficial</a>
   ·
-  <a href="https://github.com/Pulse-Club/GTA-Brasil/blob/main/MANUAL.md">Manual</a>
+  <a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/MANUAL.md">Manual</a>
   ·
-  <a href="https://github.com/Pulse-Club/GTA-Brasil/blob/main/CREDITOS.md">Créditos</a>
+  <a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/CREDITOS.md">Créditos</a>
 </h6>
 <p align="center">
-<a href="https://github.com/Pulse-Club/GTA-Brasil/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Pulse-Club/GTA-Brasil?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+<a href="https://github.com/pedroleciob/GTA-Brasil/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/pedrolecio/GTA-Brasil?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
 </a>
-<a href="https://github.com/Pulse-Club/GTA-Brasil/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Pulse-Club/GTA-Brasil?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"></a>
-<a href="https://github.com/Pulse-Club/GTA-Brasil/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Pulse-Club/GTA-Brasil?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
-<a href="https://discord.gg/Q4z9wGAShj"><img alt="Discord" src="https://img.shields.io/discord/978383675756515368?style=for-the-badge&logo=discord&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41"></a>
+<a href="https://github.com/pedrolecio/GTA-Brasil/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/pedrolecio/GTA-Brasil?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"></a>
+<a href="https://github.com/pedrolecio/GTA-Brasil/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/pedrolecio/GTA-Brasil?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 <p align="center">
 <b>GTA Brasil</b> é um projeto de conversão total criado para o GTA San Andreas com o objetivo de trazer uma estética verdadeiramente brasileira de forma que mantenha a essência lowpoly do jogo original. O mod incluí diversos props, texturas do mapa traduzidas para o português, novos pedestres, armas, veículos, estruturas, localizações e scripts para tornar a experiência o mais imersiva o possível.
@@ -42,11 +40,10 @@
 
 ### 📋 Regras de Uso
 
-**GTA Brasil** está sob a licença [GPL-3.0](https://github.com/Pulse-Club/GTA-Brasil/blob/main/LICENSE), você tem direito de usar e modificar os arquivos para uso pessoal/distribuição contanto que você não venda o conteúdo ou remova créditos. **É estritamente proibido fazer reupload do projeto em sites que monetizam o download como o sharemods.** Não é proibido fazer reupload em outros casos, apesar de pedirmos gentilmente para que você linke o download para a aba Releases deste repositório. Caso você queira fazer uma modificação que julgue benéfica ao projeto, o convidamos a fazer um fork do repositório e utilizar a função de pull request. Para mais informações, veja como ajudar o projeto abaixo.
+**GTA Brasil** está sob a licença [GPL-3.0](https://github.com/pedrolecio/GTA-Brasil/blob/main/LICENSE), você tem direito de usar e modificar os arquivos para uso pessoal/distribuição contanto que você não venda o conteúdo ou remova créditos. **É estritamente proibido fazer reupload do projeto em sites que monetizam o download como o sharemods.** Não é proibido fazer reupload em outros casos, apesar de pedirmos gentilmente para que você linke o download para a aba Releases deste repositório. Caso você queira fazer uma modificação que julgue benéfica ao projeto, o convidamos a fazer um fork do repositório e utilizar a função de pull request. Para mais informações, veja como ajudar o projeto abaixo.
 
 ### 👐 Contribuir
 
-Veja [CONTRIBUIR.md](https://github.com/Pulse-Club/GTA-Brasil/blob/main/CONTRIBUIR.md).
+Veja [CONTRIBUIR.md](https://github.com/pedrolecio/GTA-Brasil/blob/main/CONTRIBUIR.md).
 
-<p align="center">Copyright &copy; 2022-presente <a href="https://pulseclub.net/" target="_blank">Pulse Club</a>
-<p align="center"><a href="https://github.com/Pulse-Club/GTA-Brasil/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pulse-Club/GTA-Brasil?style=for-the-badge"></a>
+<p align="center"><a href="https://github.com/pedrolecio/GTA-Brasil/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/pedrolecio/GTA-Brasil?style=for-the-badge"></a>
